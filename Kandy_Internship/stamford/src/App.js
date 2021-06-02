@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <Container>
-      <h3>Navbr</h3>
+      <h3>Navbr   </h3>
     </Container>
   );
 }
