@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "Rishonath Siva",
+    "occupation": "React.js front-end developer",
+    "description": "I am passionate about learning new technologies and languages to expand my skillset & M.E.R.N full stack enthusiastic",
+    "image": "Risho.jpg",
+    "bio": "My name is Risho, I'm a ReactJS Developer. Currently working as a freelance front-end developer. Looking for more opportunities to develop my skills on Web development, desinging and experience with different technologies and different teams.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "rishonath.siva@gmail.com",
+    "phone": "+94 75 980 3192",
+    "address": {
+      "street": "149/55-1/1, Modera Street, ",
+      "city": "Colombo 15",
+      "state": "Sri Lanka",
+      "zip": "001500"
+    },
+    "website": "https://devvrisho.netlify.app/",
+    "resumedownload": "https://drive.google.com/file/d/1-RvWI-bpg9i5KQBvwAnYucNp89zFxkls/view?usp=sharing",
+    "social": [
+            {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/risho-siva-5667251b1/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/dev_risho/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/risho7744",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am a Front-end developer with extensive knowledge in HTML, CSS / SASS, JavaScript. I have hands-on experience in React.js, Git, Bootstrap, Responsive Web Design, Testing, and debugging. I'm in the process of learning RESTful Service/API and Content Management System (CMS), Mongo DB, Express.js, and Node.js to be a Full Stack M.E.R.N developer. I am passionate about learning new technologies and languages to expand my skillset. I consider myself a real team player with excellent communication skills who understands the importance of teamwork, collaboration, and open communication.",
+    "education": [
+      {
+        "school": "Sri Lanka Institute of Information Technology",
+        "degree": "Modern Web Application Design & Developmet",
+        "graduated": "December 2020",
+        "description": "Studied Modern trends of web designing and development along with UI/UX designing basics and process of implementation."
+      }
+    ],
+    "work": [
+      {
+        "company": "UpWorks",
+        "title": "Freelancing Developer",
+        "years": "Jun 2020 - Present",
+        "description": "Building Responsive web applications and UI/UX based designings ."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "HTML + CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "Mongo DB",
+        "level": "70%"
+      },
+      {
+        "name": "Express.js & Mongoose",
+        "level": "65%"
+      },
+      {
+        "name": "REST Api",
+        "level": "60%"
+      },
+      {
+        "name": "Responsive Web Designing",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone with NodeJS",
+        "category": "Netflix Clone built with NodeJS",
+        "image": "Netflix_Clone.png",
+        "url": "https://netflix-clone-e7957.web.app/"
+      },
+      {
+        "title": "Tinder Clone with NodeJS",
+        "category": "Tinder Clone built with NodeJS",
+        "image": "Tinder_Clone.png",
+        "url": "https://tinder-mern-8d823.web.app/"
+      },
+      {
+        "title": "Book Store Web application with Node.js",
+        "category": "ook Store Web application built with NodeJS",
+        "image": "Book_Store.png",
+        "url": "https://book-store-8957a.web.app/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+after starting node.js application
+
+modify the package.json as follow
+
+under => "main": "index.js", include => "type":"module",
+
+edit as follows:
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve" : "nodemon server.js"
+  },
+
+THEN ONLY YOU CAN USE nodemon COMMAND.
+
+sNhlQ1WwslREtURL

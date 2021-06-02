@@ -1,0 +1,25 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072012/whatsapp.png?itok=R4C1NJyx",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072012/whatsapp.png?itok=R4C1NJyx",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072012/whatsapp.png?itok=R4C1NJyx",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

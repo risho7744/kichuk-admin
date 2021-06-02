@@ -1,0 +1,8 @@
+TypeError: Cannot read property 'state' of undefined
+
+1. Solution:
+Method one (Bind this to the function in the constructor):this.funOne = this.funOne.bind(this);
+
+2.Method two (using arrow functions):funOne = () => {}
+
+3. Method three (binding this method while binding this):onClick={this.funOne.bind(this)}

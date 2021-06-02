@@ -1,0 +1,24 @@
+.cal {
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  border: 0.2rem solid black;
+  margin: 0 25vw 0 25vw;
+  padding: 3vw;
+}
+
+.calTop > h1 {
+  font-size: 3rem;
+}
+
+.cal__display {
+  width: 100%;
+  height: 6rem;
+  margin: 0.2vw;
+  border: 0.1vw solid black;
+}
+
+.cal__bottom {
+  display: flex;
+  justify-content: space-between;
+}
